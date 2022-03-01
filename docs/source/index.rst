@@ -1,8 +1,14 @@
-Willkommen zum Android Development Wiki
+Android Development Wiki
 ============================================
 
-Hier findest du viele Informationen zur Entwicklung von Android Apps.
+Herzlich Willkommen beim **Android Development Wiki**.
 
-Dieses Lexikon befindet sich noch im Aufbau!
-==
+Es handelt sich hierbei um ein Nachschlagewerk zur Entwicklung von Android Apps.
+
+Dieses Nachschlagewerk ist zum jetzigen Zeitpunkt noch nicht vollständig, es wird aber stetig weitergeführt!
+
+Bei Verbesserungen, Informationen oder Beitragsideen kannst du mir gerne eine E-Mail schreiben: development@phillipunzen.de
+
+.. tip::
+    Falls du weitere Fragen haben solltest, kannst du dich gerne im **Offiziellen Android Developer Forum** schlau machen :)
 
