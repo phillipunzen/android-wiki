@@ -1,22 +1,8 @@
-Welcome to Lumache's documentation!
-===================================
+Willkommen zum Android Development Wiki
+============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Hier findest du viele Informationen zur Entwicklung von Android Apps.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dieses Lexikon befindet sich noch im Aufbau!
+==
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
