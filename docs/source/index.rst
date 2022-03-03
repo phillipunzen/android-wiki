@@ -29,8 +29,8 @@ Inhaltsverzeichnis
 ================================================
 
 .. toctree::
-   :maxdepth 0
-   :caption 00-Startseite
+   :maxdepth: 0
+   :caption: 00-Startseite
 
    index
 
@@ -41,8 +41,8 @@ Inhaltsverzeichnis
    01/01_Installation
 
 .. toctree::
-   :maxdepth 2
-   :caption 02-App entwicklung
+   :maxdepth: 2
+   :caption: 02-App entwicklung
 
    02/01_Activitys
    02/01/01_Installation.rst
