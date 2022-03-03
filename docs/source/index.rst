@@ -30,7 +30,6 @@ Inhaltsverzeichnis
 
 .. toctree::
    :maxdepth: 2
-   :caption: Android Studio
+   :caption: 01-Android Studio
 
    01/01_Installation
-   01/02_Vorbereitung
