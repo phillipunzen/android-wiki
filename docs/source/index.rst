@@ -1,6 +1,9 @@
 Android Development Wiki
 ============================================
 
+.. meta::
+   :description lang=de:  Android , Development, Android Development, Java, Kotlin
+
 .. image:: https://readthedocs.org/projects/android-development-wiki/badge/?version=latest
 
 Herzlich Willkommen beim **Inoffiziellen Android Development** Nachschlagewerk!
@@ -19,3 +22,10 @@ Diese Wiki bezieht sich auf die Programmiersprache **Kotlin** und **Java**.
 Wenn andere Programmierspraachen verwendet werden sollten, wird dieses ausgewiesen.
 
 Und nun viel Spaß beim durchstöbern dieser Wiki!
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Android Studio
+
+   01/01_Installation
+   01/02_Vorbereitung
