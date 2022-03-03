@@ -26,23 +26,23 @@ Wenn andere Programmierspraachen verwendet werden sollten, wird dieses ausgewies
 Und nun viel Spaß beim durchstöbern dieser Wiki!
 
 Inhaltsverzeichnis
-================================================
+====================
 
 .. toctree::
    :maxdepth: 0
-   :caption: 00-Startseite
+   :caption: 00 Startseite
 
    index
 
 .. toctree::
    :maxdepth: 0
-   :caption: 01-Android Studio
+   :caption: 01 Android Studio
 
    01/01_Installation
 
 .. toctree::
    :maxdepth: 0
-   :caption: 02-App entwicklung
+   :caption: 02 App entwicklung
 
    02/01_Activitys
    02/01/01_Installation.rst
