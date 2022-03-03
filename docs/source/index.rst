@@ -1,4 +1,4 @@
-Android Development Wiki
+Startseite
 ============================================
 
 .. meta::
@@ -33,3 +33,10 @@ Inhaltsverzeichnis
    :caption: 01-Android Studio
 
    01/01_Installation
+
+.. toctree::
+   :maxdepth 2
+   :caption 02-App entwicklung
+
+   02/01_Activitys
+   02/01/01_Installation.rst
