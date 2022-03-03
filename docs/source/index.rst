@@ -29,6 +29,12 @@ Inhaltsverzeichnis
 ================================================
 
 .. toctree::
+   :maxdepth 0
+   :caption 00-Startseite
+
+   index
+
+.. toctree::
    :maxdepth: 2
    :caption: 01-Android Studio
 
